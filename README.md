@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Udhay707
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning full stack web development.
 - 📫 How to reach me: mailto - udhaychandhar@gmail.com
 
 <!---
