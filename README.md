@@ -5,7 +5,7 @@ I'm Udhaya Chandhar Srinivasan, a software engineer, AI enthusiast, and a lifelo
 # Professional Background:
 I have over 4 years of experience in building performance-critical applications with Java, Javascript and python with some skills in devops. My work has often required diving deep into developing critical features of my application and crafting efficient solutions under challenging constraints.
 
-#Academic Pursuit:
+# Academic Pursuit:
 Currently, I’m deepening my expertise in AI, focusing on topics like regression and classification techniques, Bayesian methods, and Markov decision processes. My coursework includes hands-on projects, like predictive maintenance of aircraft engines, where I’ve explored time-to-failure (TTF) prediction using statistical and machine learning methods. I’m diving into deep learning for image classification tasks using PyTorch (think CIFAR-10 and MNIST datasets), optimization problems in MATLAB, and the mathematics underpinning machine learning (linear algebra, matrices, etc.).
 
 ## 🛠️ Skills and Technologies
